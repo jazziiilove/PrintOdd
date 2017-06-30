@@ -1,0 +1,14 @@
+c:\users\baran\documents\visual studio 2010\Projects\PrintOdd\PrintOdd\bin\Debug\PrintOdd.exe
+c:\users\baran\documents\visual studio 2010\Projects\PrintOdd\PrintOdd\bin\Debug\PrintOdd.pdb
+c:\users\baran\documents\visual studio 2010\Projects\PrintOdd\PrintOdd\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\baran\documents\visual studio 2010\Projects\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.exe
+c:\users\baran\documents\visual studio 2010\Projects\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.pdb
+C:\Users\Baran\Desktop\Rebtel\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.exe
+C:\Users\Baran\Desktop\Rebtel\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.pdb
+C:\Users\Baran\Desktop\Rebtel\PrintOdd\PrintOdd\bin\Debug\PrintOdd.exe
+C:\Users\Baran\Desktop\Rebtel\PrintOdd\PrintOdd\bin\Debug\PrintOdd.pdb
+C:\Users\Baran\Desktop\Rebtel\PrintOdd\PrintOdd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.exe
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\PrintOdd\PrintOdd\obj\x86\Debug\PrintOdd.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\PrintOdd\PrintOdd\bin\Debug\PrintOdd.exe
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\PrintOdd\PrintOdd\bin\Debug\PrintOdd.pdb
