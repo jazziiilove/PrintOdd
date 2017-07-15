@@ -23,12 +23,11 @@ namespace PrintOdd
         /// <param name="number">number</param>
         public static void PrintOdd(int number)
         {
-            if (number >= 1)
-            {
-                Console.Write("{0}, ", number);
-                number -= 2;
-                PrintOdd(number);
-            }
+            if (number < 1)
+              return;
+
+            Console.Write("{0}, ", (number -= 2));
+            PrintOdd(number);
         }
 
         /// <summary>
